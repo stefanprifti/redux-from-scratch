@@ -1,0 +1,8 @@
+{
+  "name": "redux-from-scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/stefanprifti/redux-from-scratch.git",
+  "author": "Stefan Prifti <stefanprifti.al@gmail.com>",
+  "license": "MIT"
+}
